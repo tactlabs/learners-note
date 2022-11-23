@@ -7,7 +7,6 @@
 nl
 
       This command specifies the number of lines of a file. 
-
       https://www.tutorialworks.com/linux-commands/
 ```
 
