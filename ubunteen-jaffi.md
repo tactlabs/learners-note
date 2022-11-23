@@ -2,8 +2,13 @@
 
 # Ubunteen Notes - Jaffi
 
-#### Title
+#### command: tree
 ```
-Content should come here
+tree
+    	
+    this command will get the current directory structure in tree like format
+
+    https://www.tutorialspoint.com/unix_commands/awk.htm
 ```
+
 
