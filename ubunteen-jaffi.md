@@ -31,6 +31,15 @@ awk
 
 
 
-#### command: awk
+#### command: cmp
 ```
+
+cmp
+
+    This command is used to compares two files
+    
+    https://www.thegeekdiary.com/linux-unix-examples-of-find-command-to-find-files-with-specific-sets-of-permissions/
+```
+
+
 
